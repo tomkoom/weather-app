@@ -1,1 +1,3 @@
-Weather API: https://weatherstack.com/
+Weather API: https://weatherstack.com
+
+Docs: https://weatherstack.com/documentation
