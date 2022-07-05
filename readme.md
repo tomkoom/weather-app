@@ -1,7 +1,9 @@
-Weather API: https://weatherstack.com
+#### APIs
 
-Docs 📚 : https://weatherstack.com/documentation
+Weather API: [weatherstack.com](https://weatherstack.com)
 
-Geocode API: https://www.mapbox.com/
+[Docs 📚](https://weatherstack.com/documentation)
 
-Docs 📚 : https://docs.mapbox.com/
+Geocode API: [mapbox.com](https://www.mapbox.com/)
+
+[Docs 📚](https://docs.mapbox.com/)
