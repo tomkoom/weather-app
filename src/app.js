@@ -11,6 +11,7 @@ request({ url: weatherstackURL, json: true }, (error, response) => {
 	console.log(data.current);
 });
 
+// geocode request
 request({ url: mapboxURL, json: true }, (error, response) => {
 	const data = response.body;
 	const latitude = data.features[0].center[1];
